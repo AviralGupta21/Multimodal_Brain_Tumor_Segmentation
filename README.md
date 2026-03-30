@@ -182,7 +182,7 @@ The model is evaluated using:
 
 ### 📌 Key Formula (Dice)
 
-```math
+```markdown
 Dice = 2|A ∩ B| / (|A| + |B|)
 ```
 
