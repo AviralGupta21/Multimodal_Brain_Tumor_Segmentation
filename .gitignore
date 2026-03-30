@@ -1,0 +1,138 @@
+# =========================
+
+# 🔥 Python General
+
+# =========================
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================
+
+# 🧠 Virtual Environments
+
+# =========================
+
+.venv/
+venv/
+env/
+ENV/
+
+# =========================
+
+# 📊 Jupyter Notebooks
+
+# =========================
+
+.ipynb_checkpoints/
+
+# =========================
+
+# 🧾 Logs & Debug
+
+# =========================
+
+*.log
+logs/
+debug.log
+
+# =========================
+
+# 🧪 PyTest / Coverage
+
+# =========================
+
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# =========================
+
+# 🧬 ML / Data Files (IMPORTANT)
+
+# =========================
+
+data/
+datasets/
+BraTS_Datasets/
+BraTS_processed_data/
+
+# Large medical imaging formats
+
+*.nii
+*.nii.gz
+*.dcm
+
+# CSV / large datasets (optional)
+
+*.csv
+
+# =========================
+
+# 🧠 Model Checkpoints
+
+# =========================
+
+checkpoints/
+*.pth
+*.pt
+*.h5
+*.ckpt
+
+# =========================
+
+# 📈 Outputs / Results
+
+# =========================
+
+outputs/
+results/
+*.png
+*.jpg
+*.jpeg
+
+# =========================
+
+# ⚙️ Environment / Secrets
+
+# =========================
+
+.env
+*.env
+
+# =========================
+
+# 🖥️ OS / System Files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# 🧰 IDE / Editor
+
+# =========================
+
+.vscode/
+.idea/
+
+# =========================
+
+# 🔄 Temporary Files
+
+# =========================
+
+*.tmp
+*.swp
+*.bak

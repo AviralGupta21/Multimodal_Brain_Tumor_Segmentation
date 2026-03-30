@@ -235,7 +235,7 @@ cd brain-tumor-segmentation
 
 # Install dependencies
 pip install -r requirements.txt
-
+```
 ---
 
 ### ▶️ Run Training
@@ -245,13 +245,13 @@ python src/training/train_unet.py
 
 # Train ResUNet
 python src/training/train_resunet.py
-
+```
 ---
 
 ## 📊 Run Experiments
 ```bash
 python src/training/run_experiments.py
-
+```
 ---
 
 ## 🎯 Research Impact
